@@ -1,5 +1,5 @@
 :: Set primary and alternate DNS for IPv4 and IPV on Windows Server 2016 & 10
-::script took from https://superuser.com/questions/463096/change-dns-with-script
+::script refer from https://superuser.com/questions/463096/change-dns-with-script
 
 @ECHO OFF
 SETLOCAL EnableDelayedExpansion
