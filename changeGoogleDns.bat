@@ -1,6 +1,6 @@
 :: Set primary and alternate DNS for IPv4 on Windows Server 2000/2003/2008 & 
 :: Windows XP/Vista/7
-::script took from https://superuser.com/questions/463096/change-dns-with-script
+::script refer from https://superuser.com/questions/463096/change-dns-with-script
 @ECHO OFF
 SETLOCAL EnableDelayedExpansion
 
